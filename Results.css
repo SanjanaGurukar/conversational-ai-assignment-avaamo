@@ -1,0 +1,6 @@
+.search-results {
+  background-image: linear-gradient( rgb(58, 38, 90), rgb(98, 70, 114));
+    margin-bottom: 5px;
+    padding: 5px;
+    font-size: medium;
+  }
